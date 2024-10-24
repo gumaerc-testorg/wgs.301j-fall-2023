@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/wgs-301j-feminist-thought-fall-2023/mitwgs_301j_f23.jpg
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2023/mitwgs_301j_f23.jpg
 file_size: 108033
 file_type: image/jpeg
 image_metadata:
