@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2023/anne-fausto-sterling-lego-figurine.jpg
+file: courses/feminist-thought/anne-fausto-sterling-lego-figurine.jpg
 file_size: 626873
 file_type: image/jpeg
 image_metadata:
