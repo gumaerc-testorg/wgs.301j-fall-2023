@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/feminist-thought/mitwgs_301j_f23_finalpaper_studentexample01.pdf
+file: /ol-ocw-studio-app/courses/wgs-301j-feminist-thought-fall-2023/mitwgs_301j_f23_finalpaper_studentexample01.pdf
 file_size: 183361
 file_type: application/pdf
 image_metadata:
